@@ -3,20 +3,20 @@ body{
    font-family: Verdana, Geneva, Tahoma, sans-serif;
    width: 1000px;
    margin: auto;
-   background-color: #000000;
+   background-color: #ffffff;
 }
 h1 {
-   color: #ffffff ;
+   color: #000000 ;
    margin-left: 80px;
    text-align: center;
 }
 h2{
-   color: #9CFFFA ;
+   color: #000000 ;
    margin-left: 80px;
    text-align: left;
 }
 nav{
-   background-color: #E85F5C ;
+   background-color: #4796d7 ;
    height: 40px;
    padding-bottom: 20px;
 }
@@ -29,13 +29,13 @@ nav li {
 }
 nav a {
    text-decoration: none;
-   color: #773344 ;
+   color: #ffffff ;
    font-size: 1.2em;
    font-weight: bold;
    margin-right: 20px;
 }
 nav a:hover{
-   color: #E3B5A4 ;
+   color: #000000 ;
 }
 section {
    color: #636363;
@@ -47,14 +47,14 @@ section {
 
 footer {
    clear: both;
-   background-color: #E85F5C;
-   color: #773344;
+   background-color: #4796d7;
+   color: #ffffff;
    height: 30px;
    text-align: center;
 }
 footer a {
    text-decoration: none;
-   color: #773344;
+   color: #ffffff;
    margin-left: 20px;
 }
 
